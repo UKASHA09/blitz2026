@@ -5,17 +5,16 @@ const Attendes = () => {
         <div className={styles.back}>
             <div className={styles.inner1}>
                 <h1 className={styles.h1}>
-                    A first-rate virtual experience for all
+                    Blitz 2K26 — Step Into the Multiverse
                 </h1>
             </div>
             <div className={styles.grid}>
                 <div className={styles.text}>
-                    <h4 className={styles.h4}>Events</h4>
+                    <h4 className={styles.h4}>The Sports Universe — Realm of Strength & Strategy</h4>
                     <p className={styles.bl}>
-                        Experience Adrenaline packed fun events that get your
-                        mental juices flowing! Show us the synergy of your team,
-                        or prove that you are the best lone wolf around; we have
-                        an event for everyone!
+                        Enter the universe where muscles, speed, and teamwork rewrite destiny.
+                        Face off in alternate dimensions of Cricket, Football, Powerlifting, Push-Up Challenge, Carrom, and the ultimate cosmic clash — Tug of War.
+                        In this realm, there are no spectators—only warriors chosen to rise.
                     </p>
                 </div>
                 <div data-aos="fade-left" className={styles.img}>
@@ -27,14 +26,12 @@ const Attendes = () => {
                 </div>
 
                 <div className={styles.text}>
-                    <h4 className={styles.h4}>Workshops</h4>
+                    <h4 className={styles.h4}>TechVerse — Where Minds Bend Reality</h4>
                     <p className={styles.bl}>
-                        No one comes up with the technique of tying a shoelace;
-                        the “2 egg reference” is taught to us while we do it
-                        ourselves. This hands-on experience saves a lot of
-                        initial time-consuming steps of learning a topic and is
-                        the basis for a strong foundation. Experience quality,
-                        fun-packed, interactive workshops ranging from x to y!
+                        A universe powered by logic, creativity, and chaos.
+                        Decode anomalies in Blind Coding, battle ideas in Debate, outrun AI in Keystreak, and outsmart everyone in the Quiz Rift.
+                        Artists shape new realities in ArtWall, leaving their mark across dimensions.
+                        Welcome to the domain of thinkers, creators, and innovators.
                     </p>
                 </div>
                 <div data-aos="fade-left" className={styles.img}>
@@ -46,13 +43,11 @@ const Attendes = () => {
                 </div>
 
                 <div className={styles.text}>
-                    <h4 className={styles.h4}>Seminars (speaking sessions)</h4>
+                    <h4 className={styles.h4}>The Nexus — Carnival of Infinite Worlds</h4>
                     <p className={styles.bl}>
-                        The need for a good old sensei is undeniable in a world
-                        of endless possibilities. Get guidance on various topics
-                        ranging from x to y; you may discover something that
-                        gets you up from your bed each day, or avoid going down
-                        the next rabbit hole.
+                        Step into the cosmic convergence where thrill meets fun.
+                        From the vibrant pathways of the Fun Fair to high-stakes digital battles in BGMI and PES, this is the hub where all universes collide.
+                        Only one truth echoes through the multiverse: legends are built here.
                     </p>
                 </div>
                 <div data-aos="fade-left" className={styles.img}>
