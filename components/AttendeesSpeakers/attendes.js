@@ -37,7 +37,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/dlu72yo9b/image/upload/v1632664486/DSC02855_1_x0oa32.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923409/1000044666_n9jbb8.jpg"
                         className={styles.hi2}
                     />
                 </div>
@@ -53,7 +53,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/dlu72yo9b/image/upload/v1632664485/DSC_0277_1_tdbkek_1_q1hcom.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923410/1000044663_urzvjk.webp"
                         className={styles.hi3}
                     />
                 </div>
