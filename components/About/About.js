@@ -13,18 +13,16 @@ const About = () => {
         <div className={styles.container} id = 'AboutUS'>
             <div className={styles.title_container}>
                 <h1 className={styles.title} >
-                    What is <span>Dhruva&nbsp;?</span>
+                    What is <span>BLITZ&nbsp;?</span>
                 </h1>
 
                 <p className={styles.content}>
-                    Dhruva is the annual tech fest of IIIT Kottayam! It’s the
-                    amalgamation of mind gruelling competitions, thought
-                    provoking expert talks and workshops that stimulate your
-                    cerebral matter!
+                    BLITZ is a four day long fest organized by the BSc IT
+                    department of AP College of Commerce and Economics. It is a
+                    platform for students to showcase their skills and compete with their peers in various events ranging from sports, art and design to technical competitions.
                     <br />
                     <br />
-                    Just like the pole star dhruva, this event is your chance to
-                    shine bright and bring into play the technical talents!
+                    Just like last year, BLITZ 2026 promises to be an exhilarating experience filled with learning, fun, and networking opportunities. Whether you're a tech enthusiast, a sports lover, or someone who enjoys creative pursuits, there's something for everyone at BLITZ 2026. So gear up and get ready to unleash your potential at BLITZ 2026!
 
                 </p>
                 {/* <div className={styles.btn_container}>

@@ -12,7 +12,7 @@ const HButtons = () => {
                 <Link href="https://chat.whatsapp.com/IthIj4yfl1U8v2o8EWSq82" target="_blank">
                     <a target="_blank">
                         <SiWhatsapp className={styles.faicon} />
-                        <span> Join Whatsapp grp</span>
+                        <span> Join Whatsapp</span>
                     </a>
                 </Link>
             </button>
