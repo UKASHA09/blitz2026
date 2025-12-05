@@ -1,7 +1,6 @@
 import styles from '/styles/HButton.module.css'
 import Link from 'next/link'
-import { SiWhatsapp } from 'react-icons/si'
-
+import { SiWhatsapp } from 'react-icons/si'     
 
 const HButtons = () => {
     return (
@@ -12,7 +11,7 @@ const HButtons = () => {
             <button className={styles.b2}>
                 <Link href="https://chat.whatsapp.com/IthIj4yfl1U8v2o8EWSq82" target="_blank">
                     <a target="_blank">
-                        <SiDiscord className={styles.faicon} />
+                        <SiWhatsapp className={styles.faicon} />
                         <span> Join Whatsapp grp</span>
                     </a>
                 </Link>
