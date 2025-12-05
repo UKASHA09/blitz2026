@@ -43,22 +43,22 @@ export default function Home() {
         <>
             <div className={styles.container} style={{ height: height }}>
                 <Head>
-                    <title>DHRUVA - IIITK</title>
+                    <title>BLITZ2026</title>
                     <meta
                         name="description"
-                        content="Dhruva Indian Institute of Information Technology IIIT Kottayam Technical Fest"
+                        content="AP College of Commerce and Economics, BSC IT Blitz Fest"
                     />
                     <meta
                         property="og:title"
-                        content="Dhruva Technical Fest IIIT Kottayam"
+                        content="BLITZ2026 - APCCE BSC IT Technical Fest"
                     />
                     <meta
                         property="og:description"
-                        content="Dhruva - Indian Institute of Information Technology (IIIT) Kottayam Technical Fest"
+                        content="BLITZ2026 - AP College of Commerce and Economics, BSC IT Blitz Fest"
                     />
                     <meta
                         property="og:url"
-                        content="https://www.dhruvaiiitk.tech/"
+                        content="https://blitz2026.vercel.app/"
                     />
                     <meta property="og:type" content="website" />
                     <link rel="icon" href="/favicon.ico" />
