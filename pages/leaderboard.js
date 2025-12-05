@@ -11,10 +11,10 @@ const leaderboard = () => {
         <>
         <div className = {styles.container}>
             <Head>
-                <title>DHRUVA - IIITK | Leaderboard</title>
+                <title>BLITZ 2026 | Leaderboard</title>
                 <meta
                     name="description"
-                    content="Dhruva IIITK Technical Fest"
+                    content="Blitz 2026 Fest"
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

@@ -8,7 +8,7 @@ const team = () => {
     return (
         <>
             <Head>
-                <title>DHRUVA - IIITK | Events </title>
+                <title>BLITZ 2026 | Events </title>
                 <meta
                     name="description"
                     content="Dhruva IIITK Technical Fest"

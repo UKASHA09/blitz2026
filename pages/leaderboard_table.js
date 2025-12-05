@@ -8,7 +8,7 @@ const leaderboard_table = () => {
     return (
         <>
             <Head>
-                <title>DHRUVA - IIITK | Leaderboard </title>
+                <title>BLITZ 2026 | Leaderboard </title>
                 <meta
                     name="description"
                     content="Dhruva IIITK Technical Fest"
