@@ -19,8 +19,8 @@ const Header = () => {
                     data-aos-duration="2000"
                     data-aos-anchor-placement="top-bottom"
                 >
-                    <span>Where Tech</span> <span>Gets</span>{' '}
-                    <span className={styles.maintxt}>Stellar!</span>
+                    <span>BLITZ 2026</span>{' '}
+                    <span className={styles.maintxt}>MULTIVERSE MAYHEM</span>
                 </p>
                 <p
                     className={styles.desciption}

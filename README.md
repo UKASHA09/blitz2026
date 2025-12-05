@@ -1,3 +1,1 @@
-# Dhruva
-
-IIIT Kottayam Technical Fest Website.
+#blitz2026
