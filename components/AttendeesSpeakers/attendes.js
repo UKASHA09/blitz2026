@@ -20,7 +20,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/dlu72yo9b/image/upload/v1632664486/DSC_0838_2_zxyp2n.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764918941/cricket2_inbbjm.jpg"
                         className={styles.hi}
                     />
                 </div>
