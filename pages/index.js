@@ -8,7 +8,7 @@ import Timeline from '@components/Timeline/Timeline'
 
 import About from '@components/About/About'
 import { Sponsors } from '@components/Sponsor/Sponsors'
-import Speakers from '@components/Speakers/Speakers'
+// import Speakers from '@components/Speakers/Speakers'
 import Sponsor_Faq from '@components/Sponsor_Faq/Sponsor_Faq'
 import Attendes from '@components/AttendeesSpeakers/attendes'
 import Intro from '@components/Introduction/Intro'
@@ -72,7 +72,7 @@ export default function Home() {
                             <Header />
                             <About />
                             <Attendes />
-                            <Speakers />
+                            {/* <Speakers /> */}
                             <Timeline />
                             <Sponsors />
                             <Sponsor_Faq />
@@ -84,7 +84,7 @@ export default function Home() {
                         <Header />
                         <About />
                         <Attendes />
-                        <Speakers />
+                        {/* <Speakers /> */}
                         <Timeline />
                         <Sponsors />
                         <Sponsor_Faq />
