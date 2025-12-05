@@ -11,7 +11,7 @@ const team = () => {
                 <title>BLITZ 2026 | Events </title>
                 <meta
                     name="description"
-                    content="Dhruva IIITK Technical Fest"
+                    content="BLITZ 2026 Events"
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
