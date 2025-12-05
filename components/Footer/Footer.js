@@ -6,7 +6,7 @@ import {
     FaTwitch,
     FaYoutube,
 } from 'react-icons/fa'
-import { SiDiscord } from 'react-icons/si'
+import { SiWhatsapp } from 'react-icons/si'
 import styles from './Footer.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -63,11 +63,11 @@ const Footer = () => {
                         </li>
                         <li>
                             <Link
-                                href="https://discord.com/channels/@me"
+                                href="https://chat.whatsapp.com/IthIj4yfl1U8v2o8EWSq82"
                                 passHref={true}
                             >
                                 <a target="_blank">
-                                    <SiDiscord />
+                                    <SiWhatsapp />
                                 </a>
                             </Link>
                         </li>
@@ -95,7 +95,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className={styles.footerLower}>
-                <span onClick={love} className={styles.heart}>Made with ❤️ by BetaLabs</span>
+                <span onClick={love} className={styles.heart}>Made with ❤️ by Ukasha Siddiqui, BSCIT Dept, APCCE</span>
             </div>
         </div>
     )

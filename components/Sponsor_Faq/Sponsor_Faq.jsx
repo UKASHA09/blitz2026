@@ -59,7 +59,7 @@ const Sponsor_Faq = () => {
                         </div>
                         <div className={Style.chatB}>
                             Don&apos;t worry. Just check out our event page and
-                            hop on to our discord server. We will make sure you
+                            hop on to our whatsapp group. We will make sure you
                             are equipped with the essential resources.
                         </div>
                         <div className={Style.chatW}>
@@ -68,8 +68,8 @@ const Sponsor_Faq = () => {
                         <div className={Style.chatB}>
                             We are happy to resolve all the doubts, just email
                             us at{' '}
-                            <a href="mailto:techclub@iiitkottayam.ac.in">
-                                techclub@<wbr/>iiitkottayam.ac.in
+                            <a href="mailto:blitzforum20@gmail.com">
+                                blitzforum20@<wbr/>gmail.com
                             </a>
                             .
                         </div>

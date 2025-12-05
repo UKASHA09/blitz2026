@@ -32,7 +32,7 @@ const Header = () => {
                         department of BSC IT
                     </span>
                     <span>
-                        Join us in this four-day-long virtual extravaganza
+                        Join us in this four-day-long extravaganza
                         <br />
                         that&apos;s bound to fire up your neurons and spark your
                         creative flair!
