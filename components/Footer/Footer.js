@@ -25,39 +25,29 @@ const Footer = () => {
                     <ul>
                         <li>
                             <Link
-                                href="mailto:techclub@iiitkottayam.ac.in"
+                                href="mailto:blitzforum20@gmail.com"
                                 passHref={true}
                             >
                                 <FaEnvelope />
                             </Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <Link
-                                href="https://www.facebook.com/Dhruva-IIITK-100145739097786"
+                                href="https://www.facebook.com/"
                                 passHref={true}
                             >
                                 <a target="_blank">
                                     <FaFacebookSquare />
                                 </a>
                             </Link>
-                        </li>
+                        </li> */}
                         <li>
                             <Link
-                                href="https://www.instagram.com/dhruva_iiitk/"
+                                href="https://www.instagram.com/blitzunleashed"
                                 passHref={true}
                             >
                                 <a target="_blank">
                                     <FaInstagram />
-                                </a>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link
-                                href="https://twitter.com/Dhruva_IIITK"
-                                passHref={true}
-                            >
-                                <a target="_blank">
-                                    <FaTwitter />
                                 </a>
                             </Link>
                         </li>
@@ -71,26 +61,16 @@ const Footer = () => {
                                 </a>
                             </Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <Link
-                                href="https://www.youtube.com/channel/UCgEeC4C9ilVYTgBFlwofjUA"
+                                href="https://www.youtube.com/channel/"
                                 passHref={true}
                             >
                                 <a target="_blank">
                                     <FaYoutube />
                                 </a>
                             </Link>
-                        </li>
-                        <li>
-                            <Link
-                                href="https://www.twitch.tv/dhruva_iiitk"
-                                passHref={true}
-                            >
-                                <a target="_blank">
-                                    <FaTwitch />
-                                </a>
-                            </Link>
-                        </li>
+                        </li> */}
                     </ul>
                 </div>
             </div>
