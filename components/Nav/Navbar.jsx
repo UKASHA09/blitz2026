@@ -53,7 +53,7 @@ const Navbar = () => {
                 <Link href="/" passHref>
                     <a target="_self">
                         <Image
-                            src="/png/aplogonew.png"
+                            src="/png/aplogo40.png"
                             className="logoimg"
                             alt="AP Logo"
                             height={40}
