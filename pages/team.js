@@ -8,10 +8,10 @@ const team = () => {
     return (
         <>
             <Head>
-                <title>DHRUVA - IIITK Team </title>
+                <title>BLITZ 2026 Team </title>
                 <meta
                     name="description"
-                    content="Dhruva IIITK Technical Fest"
+                    content="BLITZ 2026 Team Members"
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

@@ -10,10 +10,10 @@ import { SiWhatsapp } from 'react-icons/si'
 import styles from './Footer.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
-import logo from '../../public/betalab-horizontal.png'
+import logo from '../../public/footerimage.png'
 const Footer = () => {
     function love() {
-        alert("With ❤️💜💛, We present to you... Dhruva!")
+        alert("With ❤️💜💛, We present to you... BLITZ!")
     }
     return (
         <div className={styles.footer}>
