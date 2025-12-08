@@ -9,10 +9,9 @@ import Link from 'next/link'
 
 const Card = (props) => {
     useEffect(() => {
-        AOS.init({
-            // duration : 5000
-        })
+        AOS.init({})
     }, [])
+
     const [img, setImg] = useState(props.image)
 
     return (
@@ -25,30 +24,43 @@ const Card = (props) => {
             data-aos-duration="1000"
         >
             <div className={styles.inner}></div>
+
             <div className={classNames(styles.wrapper, styles.active)}>
                 <div className={styles.daycards}>
-                    {img && (
-                        <Image
-                            src={img}
-                            alt="poster"
-                            height="300"
-                            width="250"
-                            className="imgs"
-                        />
-                    )}
-                     <style jsx global>{`
-                            .imgs {
-                                border-radius: 8px;
-                            }
-                        `}</style>
+
+                    {/* IMAGE WRAPPER (FIXED) */}
+                    <div className="imgWrapper">
+                        {img && (
+                            <Image
+                                src={img}
+                                alt="poster"
+                                fill
+                                className="imgs"
+                            />
+                        )}
+                    </div>
+
+                    {/* Inline CSS */}
+                    <style jsx global>{`
+                        .imgWrapper {
+                            position: relative;
+                            width: 250px;   /* desired width */
+                            height: 300px;  /* desired height */
+                            overflow: hidden;
+                            border-radius: 8px;
+                        }
+
+                        .imgs {
+                            object-fit: cover !important;
+                            border-radius: 8px;
+                        }
+                    `}</style>
+
                     <div className={styles.content_container}>
                         <span className={styles.name}>{props.name}</span>
-                        {/* <span className={styles.role}>
-                                Frontend Developer
-                            </span> */}
                     </div>
+
                     <div className={styles.social_container}>
-                        {/* <FaEnvelope /> */}
                         {props.instagram !== '' && (
                             <a
                                 href={props.instagram}
@@ -58,6 +70,7 @@ const Card = (props) => {
                                 <FaInstagram />
                             </a>
                         )}
+
                         <a
                             href={props.linkedin}
                             target="_blank"
@@ -65,6 +78,7 @@ const Card = (props) => {
                         >
                             <FaLinkedin />
                         </a>
+
                         {props.twitter !== '' && (
                             <a
                                 href={props.twitter}
@@ -75,10 +89,10 @@ const Card = (props) => {
                             </a>
                         )}
                     </div>
+
                 </div>
             </div>
         </div>
-        // </div>
     )
 }
 
