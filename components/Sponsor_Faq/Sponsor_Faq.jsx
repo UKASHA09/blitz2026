@@ -26,7 +26,6 @@ const Sponsor_Faq = () => {
                         <HButton
                             name={'Apply'}
                             icon={<ImArrowUpRight2 />}
-                            url={'#'}
                         />
                     </div>{' '}
                     {/* Included an additional attribute - icon for the up-left arrow, also made the required change in button.jsx */}
