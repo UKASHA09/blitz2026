@@ -10,13 +10,13 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: 'Wali Shaikh',
+                name: 'Vali Ansari',
                 // email: '##',
                 phoneNumber: '+91 7400294072',
             },
             {
                 key: '2',
-                name: 'Taheer Chorwadwala',
+                name: 'Taheer Chorwala',
                 // email: '##',
                 phoneNumber: '+91 7977275668',
             },
@@ -29,24 +29,24 @@ const events = [
     {
         id: 2,
         link: 'breaking-bad',
-        name: 'Breaking Bad',
-        tag: 'A Deep Learning Approach',
+        name: 'Cricket Tournament',
+        tag: '6v6 Matches',
         description:
-            '“Shut the f— up and let me die in peace.”-Mike, Now that’s deep or is it umm....dark?\n \nShow off your Deep Learning skills by creating the most efficient model from the provided data set and problem statement while experiencing the dramatic, dark and action-packed storyline of breaking bad.',
+            '“A great cricket match is not just played on the field, but also in the hearts of those who love the game.”\n \nShowcase your cricketing skills and teamwork in this thrilling 6-a-side campus cricket tournament and claim the title of campus champions!',
         date: '30th October',
         time: '8:00 am',
         organisers: [
             {
                 key: '1',
-                name: 'Aditya Srinivas Menon',
-                email: 'adityasrinivas20bcs8@\u200Biiitkottayam.ac.in',
-                phoneNumber: '(+91) 7406540439',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
             },
             {
                 key: '2',
-                name: 'Prasanna Devadiga',
-                email: 'prasanna2019@\u200Biiitkottayam.ac.in',
-                phoneNumber: '9607781923',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
             },
         ],
         poster: 'https://res.cloudinary.com/dpjf6btln/image/upload/v1633793392/BB_bcq4a4.jpg',
