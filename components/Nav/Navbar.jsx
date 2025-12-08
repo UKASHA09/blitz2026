@@ -53,9 +53,9 @@ const Navbar = () => {
                 <Link href="/" passHref>
                     <a target="_self">
                         <Image
-                            src="/png/dhruva-dark-icon.png"
+                            src="/png/aplogonew.png"
                             className="logoimg"
-                            alt="Dhruva Logo"
+                            alt="AP Logo"
                             height={40}
                             width={40}
                             loading="eager"
