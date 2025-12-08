@@ -17,9 +17,10 @@ const EventHeading = (props) => {
                 <p style = {props.content ? ({display: 'block'}) : ({display : 'none'})}>{props.content}</p>
                 <div>
                     {/* <a href={(!eventData.includes(props.title) ? "/leaderboard_table?val=" : "/leaderboard?val=") + props.lead + "&nam=" + props.title} target="_blank" rel="noreferrer"> */}
-                    <a href={(!eventData.includes(props.title) ? "/leaderboard_table?val=" : "/leaderboard?val=") + props.lead + "&nam=" + props.title} target="_blank" rel="noreferrer">
-                        <HButton name="Registration" icon = {<ImArrowUpRight2 />}/>
-                    </a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfn-oWN2AupIYDeMl5HdSP1UV_2Bc3r5Mo4AQJKep9m9RKMOQ/viewform?usp=publish-editor" target="_blank" rel="noreferrer">
+                            <HButton name="Registration" icon={<ImArrowUpRight2 />} />
+                        </a>
+
                 </div>
             </div>
             <div className={styles.image}>

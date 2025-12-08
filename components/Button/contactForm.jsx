@@ -83,7 +83,7 @@ export default function ContactForm(props) {
                 <Fade in={open}>
                     <div className={classes.paper}>
                         <form className={styles.Fform} onSubmit={submitForm}>
-                            <h1 className={styles.Ftitle}>React Out To Us</h1>
+                            <h1 className={styles.Ftitle}>Reach Out To Us</h1>
                             <div>
                                 <label htmlFor="name">Full Name</label>
                                 <input

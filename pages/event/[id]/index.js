@@ -50,10 +50,10 @@ export default function Home(props) {
         <>
             <div className={styles.container}>
                 <Head>
-                    <title>DHRUVA - IIITK | {props.name} </title>
+                    <title>BLITZ2026 | {props.name} </title>
                     <meta
                         name="description"
-                        content="Dhruva IIITK Technical Fest"
+                        content="Blitz 2026 Event"
                     />
                     <link rel="icon" href="/favicon.ico" />
                 </Head>
