@@ -16,6 +16,7 @@ const EventHeading = (props) => {
                 <h1>{props.title}</h1>
                 <p style = {props.content ? ({display: 'block'}) : ({display : 'none'})}>{props.content}</p>
                 <div>
+                    {/* <a href={(!eventData.includes(props.title) ? "/leaderboard_table?val=" : "/leaderboard?val=") + props.lead + "&nam=" + props.title} target="_blank" rel="noreferrer"> */}
                     <a href={(!eventData.includes(props.title) ? "/leaderboard_table?val=" : "/leaderboard?val=") + props.lead + "&nam=" + props.title} target="_blank" rel="noreferrer">
                         <HButton name="Registration" icon = {<ImArrowUpRight2 />}/>
                     </a>
