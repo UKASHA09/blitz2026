@@ -9,7 +9,7 @@ const LeaderboardHeading = () => {
         <div className = {styles.container}>
             <div className={styles.Heading}>
                 <h1>{title}</h1>
-                <p>Leaderboard</p>               
+                <p>Register</p>               
             </div>
         </div>
     )
