@@ -19,7 +19,7 @@ const Footer = () => {
         <div className={styles.footer}>
             <div className={styles.footerUpper}>
                 <div className={styles.logo}>
-                    <Image src={logo} alt="Beta Labs Logo" priority={true} />
+                    <Image src={logo} alt="Designed By Ukasha" priority={true} />
                 </div>
                 <div className={styles.icons}>
                     <ul>

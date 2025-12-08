@@ -34,7 +34,7 @@ export function HButtonLight(props) {
             <button
                 className={styles.btnhl}
                 onClick={(event) =>
-                    window.open('mailto:techclub@iiitkottayam.ac.in')
+                    window.open('mailto:blitzforum20@gmail.com')
                 }
             >
                 {props.name}&emsp;{props.icon}
