@@ -22,9 +22,9 @@ const events = [
             },
         ],
         poster: 'https://res.cloudinary.com/deve5qqso/image/upload/v1765171958/pexels-pixabay-47730_o5wrpb.jpg',
-        // registration:
-        //     'https://dare2compete.com/p/commit-the-flag-dhruva-indian-institute-of-information-technology-iiit-kottayam-224044?lb=wTDkKUs',
-        // leadLink:"1ikUbjDjqULqP3sSQeZPoYP3Wj4lwLW90PHB1ihbIFfk",    
+        registration:
+            'https://dare2compete.com/p/commit-the-flag-dhruva-indian-institute-of-information-technology-iiit-kottayam-224044?lb=wTDkKUs',
+        leadLink:"1ikUbjDjqULqP3sSQeZPoYP3Wj4lwLW90PHB1ihbIFfk",    
     },
     {
         id: 2,
