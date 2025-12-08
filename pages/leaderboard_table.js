@@ -11,7 +11,7 @@ const leaderboard_table = () => {
                 <title>BLITZ 2026 | Leaderboard </title>
                 <meta
                     name="description"
-                    content="Dhruva IIITK Technical Fest"
+                    content="Blitz 2026"
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
