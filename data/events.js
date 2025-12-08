@@ -33,7 +33,7 @@ const events = [
         tag: '6v6 Matches',
         description:
             '“A great cricket match is not just played on the field, but also in the hearts of those who love the game.”\n \nShowcase your cricketing skills and teamwork in this thrilling 6-a-side campus cricket tournament and claim the title of campus champions!',
-        date: '30th October',
+        date: '15th January 2026',
         time: '8:00 am',
         organisers: [
             {
