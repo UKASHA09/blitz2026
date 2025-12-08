@@ -21,7 +21,7 @@ const events = [
                 phoneNumber: '+91 7977275668',
             },
         ],
-        poster: '/Posters/CTF .png',
+        poster: '/Posters/footballposter.png',
         registration:
             'https://dare2compete.com/p/commit-the-flag-dhruva-indian-institute-of-information-technology-iiit-kottayam-224044?lb=wTDkKUs',
         leadLink:"1ikUbjDjqULqP3sSQeZPoYP3Wj4lwLW90PHB1ihbIFfk",    
@@ -49,7 +49,7 @@ const events = [
                 phoneNumber: '#',
             },
         ],
-        poster: '/Posters/BB.jpg',
+        poster: '/Posters/cricketposter.png',
         registration: 'https://forms.gle/dEafjBAL2QgXdf2h6',
         leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
     },
