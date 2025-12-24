@@ -9,6 +9,12 @@ let sponsors = [
         logo: '/sponsors/jetkinglogo.png',
     },
     {
+        id: 1,
+        // name: 'Workout Gym',
+        // link: 'https://workoutgym.in/',
+        logo: '/sponsors/workoutgym.png',
+    },
+    {
         id: 2,
         // name: 'dvoc',
         // link: 'https://dvoc.in/',
@@ -25,13 +31,8 @@ let sponsors = [
         // name: 'Universal Computers',
         // link: 'https://universalcomputers.co.in/',
         logo: '/sponsors/universallogo.png',
-    },
-    {
-        id: 5,
-        // name: 'Workout Gym',
-        // link: 'https://workoutgym.in/',
-        logo: '/sponsors/workoutgym.png',
     }
+    
 ]
 
 let sponsors2 = [
