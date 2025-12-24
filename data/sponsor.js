@@ -9,28 +9,28 @@ let sponsors = [
         logo: '/sponsors/jetkinglogo.png',
     },
     {
-        id: 1,
+        id: 2,
         // name: 'Workout Gym',
         // link: 'https://workoutgym.in/',
         logo: '/sponsors/workoutgym.png',
     },
     {
-        id: 2,
+        id: 3,
         // name: 'dvoc',
         // link: 'https://dvoc.in/',
         logo: '/sponsors/dvoclogo.png',
-    },
-    {
-        id: 3,
-        // name: 'Zipster',
-        //link: 'https://zipster.in/',
-        logo: '/sponsors/zipsterlogo.png',
     },
     {
         id: 4,
         // name: 'Universal Computers',
         // link: 'https://universalcomputers.co.in/',
         logo: '/sponsors/universallogo.png',
+    },
+    {
+        id: 5,
+        // name: 'Zipster',
+        //link: 'https://zipster.in/',
+        logo: '/sponsors/zipsterlogo.png',
     }
     
 ]
