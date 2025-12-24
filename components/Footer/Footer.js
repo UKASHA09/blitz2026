@@ -75,7 +75,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className={styles.footerLower}>
-                <span onClick={love} className={styles.heart}>Made with ❤️ by Ukasha Siddiqui, BSCIT Dept, APCCE</span>
+                <span onClick={love} className={styles.heart}>Made with ❤️ by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
             </div>
         </div>
     )
