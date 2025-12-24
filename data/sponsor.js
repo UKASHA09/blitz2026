@@ -16,9 +16,15 @@ let sponsors = [
     },
     {
         id: 3,
-        //name: 'Zipster',
+        // name: 'Zipster',
         //link: 'https://zipster.in/',
         logo: '/sponsors/zipsterlogo.png',
+    },
+    {
+        id: 4,
+        // name: 'Universal Computers',
+        // link: 'https://universalcomputers.co.in/',
+        logo: '/sponsors/universallogo.png',
     }
 ]
 
