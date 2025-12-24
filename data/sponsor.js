@@ -4,7 +4,7 @@
 let sponsors = [
     {
         id: 1,
-        name: 'Jetking',
+        // name: 'Jetking',
         // link: 'https://www.onlinesbi.com/',
         logo: '/sponsors/jetkinglogo.png',
     },
