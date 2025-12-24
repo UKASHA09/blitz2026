@@ -4,9 +4,9 @@
 let sponsors = [
     {
         id: 1,
-        name: 'Gym',
+        name: 'Jetking',
         // link: 'https://www.onlinesbi.com/',
-        // logo: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1635478935/SBI-logo_uypabd.svg',
+        logo: 'https://res.cloudinary.com/deve5qqso/image/upload/v1766588361/jetkinglogo_waci55.png',
     },
 ]
 
