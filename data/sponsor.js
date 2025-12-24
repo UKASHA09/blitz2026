@@ -8,6 +8,12 @@ let sponsors = [
         // link: 'https://www.onlinesbi.com/',
         logo: '/sponsors/jetkinglogo.png',
     },
+    {
+        id: 2,
+        // name: 'dvoc',
+        // link: 'https://dvoc.in/',
+        logo: '/sponsors/dvoclogo.png',
+    }
 ]
 
 let sponsors2 = [
