@@ -26,7 +26,6 @@ export const Event = () => {
                         time={data.time}
                         tag={data.tag}
                         link={data.link}
-                        cancelled={data.cancelled}
                     />
                 ))}
             </div>
