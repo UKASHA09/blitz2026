@@ -13,7 +13,7 @@ import Link from 'next/link'
 import logo from '../../public/footerimage.png'
 const Footer = () => {
     function love() {
-        alert("With ❤️💜💛, We present to you... BLITZ!")
+        alert("With ❤️💜💛, We present to you... BLITZ! To contact me, please whatsapp me at 8828 308 408")
     }
     return (
         <div className={styles.footer}>
