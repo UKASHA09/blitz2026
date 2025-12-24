@@ -13,7 +13,7 @@ let sponsors = [
         // name: 'dvoc',
         // link: 'https://dvoc.in/',
         logo: '/sponsors/dvoclogo.png',
-    }
+    },
     {
         id: 3,
         //name: 'Zipster',
