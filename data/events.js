@@ -10,13 +10,13 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: 'Vali Ansari',
+                name: 'Vali',
                 // email: '##',
                 phoneNumber: '+91 7400294072',
             },
             {
                 key: '2',
-                name: 'Taheer Chorwala',
+                name: 'Taheer',
                 // email: '##',
                 phoneNumber: '+91 7977275668',
             },
