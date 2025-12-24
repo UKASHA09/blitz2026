@@ -6,7 +6,7 @@ let sponsors = [
         id: 1,
         name: 'Jetking',
         // link: 'https://www.onlinesbi.com/',
-        logo: 'https://res.cloudinary.com/deve5qqso/image/upload/v1766588361/jetkinglogo_waci55.png',
+        logo: '/sponsors/jetkinglogo.png',
     },
 ]
 
