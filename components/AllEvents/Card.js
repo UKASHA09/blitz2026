@@ -40,7 +40,12 @@ const Card = (props) => {
                             }
                         `}</style>
                         <div className={styles.content_container}>
-                            <span className={styles.name}>{props.name}</span>
+                            <span
+                                className={styles.name}
+                                style={props.cancelled ? { textDecoration: 'line-through' } : {}}
+                            >
+                                {props.name}
+                            </span>
                             {/* <span className={styles.role}>{props.tag}</span> */}
                         </div>
                         <div className={styles.detailContainer}>
