@@ -14,6 +14,12 @@ let sponsors = [
         // link: 'https://dvoc.in/',
         logo: '/sponsors/dvoclogo.png',
     }
+    {
+        id: 3,
+        //name: 'Zipster',
+        //link: 'https://zipster.in/',
+        logo: '/sponsors/zipsterlogo.png',
+    }
 ]
 
 let sponsors2 = [
