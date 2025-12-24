@@ -39,7 +39,7 @@ export const Sponsors = (props) => {
                 <div className={styles.backPill}><h3 className={styles.sponsorH3} style={{ color: '#ffaa00' }}>
                     Gold Tier
                 </h3></div>
-                <SponsorsRow sponsors={sponsors} />
+                {/* <SponsorsRow sponsors={sponsors} /> */}
                 <div className={styles.backPill}><h3 className={styles.sponsorH3} style={{ color: '#2ebdeb' }}>
                     Silver Tier
                 </h3></div>
