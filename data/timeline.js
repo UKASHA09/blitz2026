@@ -6,11 +6,6 @@ const event = [
         name: 'Football Tournament',
         time: '8:00 AM - 4:00 PM',
     },
-    {
-        day: 1,
-        name: 'Cricket Tournament',
-        time: '8:00 AM - 4:00 PM',
-    },
 
     // Day 2
 
@@ -22,69 +17,69 @@ const event = [
     // },
     {
         day: 2,
-        name: 'Event',
+        name: 'Tech Events',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 2,
-        name: 'Event',
+        name: 'BGMI Tournament',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 2,
-        name: 'Event',
+        name: 'PES Tournament',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 2,
-        name: 'Event',
+        name: 'Carrom Tournament',
         time: '00:00 AM - 00:00 AM',
     },
 
     // Day 3
     {
         day: 3,
-        name: 'Event',
+        name: 'Powerlifting Competition',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 3,
-        name: 'Event',
+        name: 'Pushup Challenge',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 3,
-        name: 'Event',
+        name: 'Game zone',
         time: '00:00 AM - 00:00 AM',
     },
     {
         day: 3,
-        name: 'Event',
+        name: 'Prize Distribution & Closing Ceremony',
         time: '00:00 AM - 00:00 AM',
     },
 
     // Day 4
 
-    {
-        day: 4,
-        name: 'Event',
-        time: '00:00 AM - 00:00 AM',
-    },
-    {
-        day: 4,
-        name: 'Event',
-        time: '00:00 AM - 00:00 AM',
-    },
-    {
-        day: 4,
-        name: 'Event',
-        time: '00:00 AM - 00:00 AM',
-    },
-    {
-        day: 4,
-        name: 'Event',
-        time: '00:00 AM - 00:00 AM',
-    },
+    // {
+    //     day: 4,
+    //     name: 'Event',
+    //     time: '00:00 AM - 00:00 AM',
+    // },
+    // {
+    //     day: 4,
+    //     name: 'Event',
+    //     time: '00:00 AM - 00:00 AM',
+    // },
+    // {
+    //     day: 4,
+    //     name: 'Event',
+    //     time: '00:00 AM - 00:00 AM',
+    // },
+    // {
+    //     day: 4,
+    //     name: 'Event',
+    //     time: '00:00 AM - 00:00 AM',
+    // },
 ]
 
 export { event }
