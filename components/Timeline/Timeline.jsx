@@ -43,17 +43,17 @@ export default function Timeline() {
             <div className={styles.tabs}>
                 <div className={styles.days}>
                     <div onClick={handleday1}>
-                        <Dcard name="Day 1" day={day1} />
+                        <Dcard name="Day 1- 13th Jan" day={day1} />
                     </div>
                     <div onClick={handleday2}>
-                        <Dcard name="Day 2" day={day2} />
+                        <Dcard name="Day 2- 15th Jan" day={day2} />
                     </div>
                     <div onClick={handleday3}>
-                        <Dcard name="Day 3" day={day3} />
+                        <Dcard name="Day 3- 19th Jan" day={day3} />
                     </div>
-                    <div onClick={handleday4}>
+                    {/* <div onClick={handleday4}>
                         <Dcard name="Day 4" day={day4} />
-                    </div>
+                    </div> */}
                 </div>
                 <div
                     className={classNames(
