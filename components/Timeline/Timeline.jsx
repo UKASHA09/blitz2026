@@ -7,10 +7,9 @@ import Ecard from '@components/Accessories/ecard'
 import { event } from '@data/timeline'
 
 export default function Timeline() {
-    const [day1, setday1] = useState(false)
+    const [day1, setday1] = useState(true)
     const [day2, setday2] = useState(false)
     const [day3, setday3] = useState(false)
-    const [day4, setday4] = useState(true)
     const handleday1 = () => {
         setday1(true)
         setday2(false)
@@ -27,13 +26,6 @@ export default function Timeline() {
         setday3(true)
         setday2(false)
         setday1(false)
-        setday4(false)
-    }
-    const handleday4 = () => {
-        setday3(false)
-        setday2(false)
-        setday1(false)
-        setday4(true)
     }
     return (
         <div className={styles.main} id="Events">
@@ -51,9 +43,7 @@ export default function Timeline() {
                     <div onClick={handleday3}>
                         <Dcard name="Day 3- 19th Jan" day={day3} />
                     </div>
-                    {/* <div onClick={handleday4}>
-                        <Dcard name="Day 4" day={day4} />
-                    </div> */}
+
                 </div>
                 <div
                     className={classNames(
@@ -109,24 +99,6 @@ export default function Timeline() {
                         }
                     })}
                 </div>
-                <div
-                    className={classNames(
-                        styles.events,
-                        !day4 && styles.events2,
-                    )}
-                >
-                    {event.map((item) => {
-                        if (item.day === 4) {
-                            return (
-                                <Ecard
-                                    name={item.name}
-                                    time={item.time}
-                                    link={item.link}
-                                />
-                            )
-                        }
-                    })}
-                </div>
             </div>
             <div className={styles.mobile}>
                 <div className={styles.mdays}>
@@ -172,24 +144,6 @@ export default function Timeline() {
                     <div className={styles.events}>
                         {event.map((item) => {
                             if (item.day === 3) {
-                                return (
-                                    <Ecard
-                                        name={item.name}
-                                        time={item.time}
-                                        link={item.link}
-                                    />
-                                )
-                            }
-                        })}
-                    </div>
-                </div>
-                <div className={styles.mdays}>
-                    <div onClick={handleday4}>
-                        <Dcard name="Day 4" day={day4} />
-                    </div>
-                    <div className={styles.events}>
-                        {event.map((item) => {
-                            if (item.day === 4) {
                                 return (
                                     <Ecard
                                         name={item.name}
