@@ -39,7 +39,7 @@ const events = [
             {
                 key: '1',
                 name: 'Ukasha',
-                email: '#',
+                email: 'ukashapersonal@gmail.com',
                 phoneNumber: '8828309408',
             },
         ],
