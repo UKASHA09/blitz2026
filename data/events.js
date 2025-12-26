@@ -28,14 +28,13 @@ const events = [
     },
     {
         id: 2,
-        link: 'breaking-bad',
-        name: 'Cricket Tournament',
-        tag: '6v6 Matches',
+        link: 'bgmi',
+        name: 'BGMI Tournament',
+        tag: 'Squad Battles',
         description:
-            '“A great cricket match is not just played on the field, but also in the hearts of those who love the game.”\n \nShowcase your cricketing skills and teamwork in this thrilling 6-a-side campus cricket tournament and claim the title of campus champions!',
-        date: '15th January 2026',
-        time: '8:00 am',
-        cancelled: true,
+            'Battlegrounds Mobile India awaits! Showcase your tactical skills and teamwork in this thrilling BGMI tournament. Claim victory and become the ultimate champion!',
+        date: '16th January 2026',
+        time: '6:00 pm',
         organisers: [
             {
                 key: '1',
@@ -43,15 +42,93 @@ const events = [
                 email: '#',
                 phoneNumber: '#',
             },
+        ],
+        poster: '/Posters/bgmi.png',
+        registration: 'https://forms.gle/BGMI',
+        leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
+    },
+    {
+        id: 3,
+        link: 'pes',
+        name: 'PES Tournament',
+        tag: 'Pro Evolution Soccer',
+        description:
+            'Master the beautiful game in this exciting PES tournament. Show your gaming prowess and claim the title of ultimate PES champion!',
+        date: '17th January 2026',
+        time: '5:00 pm',
+        organisers: [
             {
-                key: '2',
+                key: '1',
                 name: '#',
                 email: '#',
                 phoneNumber: '#',
             },
         ],
-        poster: '/Posters/2.png',
-        registration: 'https://forms.gle/dEafjBAL2QgXdf2h6',
+        poster: '/Posters/pes.png',
+        registration: 'https://forms.gle/PES',
+        leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
+    },
+    {
+        id: 4,
+        link: 'carrom',
+        name: 'Carrom Championship',
+        tag: 'Strike & Strategy',
+        description:
+            'A classic game of precision and strategy! Compete in this thrilling carrom championship and showcase your striking skills. Can you pocket the coins and claim victory?',
+        date: '18th January 2026',
+        time: '3:00 pm',
+        organisers: [
+            {
+                key: '1',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
+            },
+        ],
+        poster: '/Posters/carrom.png',
+        registration: 'https://forms.gle/Carrom',
+        leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
+    },
+    {
+        id: 5,
+        link: 'power-lifting',
+        name: 'Power Lifting Competition',
+        tag: 'Strength & Power',
+        description:
+            'Show your strength and power in this exhilarating power lifting competition. Lift heavy, push your limits, and become the strongest competitor on campus!',
+        date: '19th January 2026',
+        time: '7:00 am',
+        organisers: [
+            {
+                key: '1',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
+            },
+        ],
+        poster: '/Posters/powerlifting.png',
+        registration: 'https://forms.gle/PowerLifting',
+        leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
+    },
+    {
+        id: 6,
+        link: 'push-up',
+        name: 'Push Up Challenge',
+        tag: 'Test Your Endurance',
+        description:
+            'A simple yet challenging competition to test your physical endurance. How many push ups can you do? Join this challenge and prove your strength!',
+        date: '20th January 2026',
+        time: '6:00 am',
+        organisers: [
+            {
+                key: '1',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
+            },
+        ],
+        poster: '/Posters/pushup.png',
+        registration: 'https://forms.gle/PushUp',
         leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
     },
     // {
