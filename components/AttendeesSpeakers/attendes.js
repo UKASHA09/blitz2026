@@ -5,7 +5,7 @@ const Attendes = () => {
         <div className={styles.back}>
             <div className={styles.inner1}>
                 <h1 className={styles.h1}>
-                    Blitz 2K26 — Step Into the Multiverse
+                    Blitz 2026 — Step Into the Multiverse
                 </h1>
             </div>
             <div className={styles.grid}>

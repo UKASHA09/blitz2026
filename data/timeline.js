@@ -18,22 +18,22 @@ const event = [
     {
         day: 2,
         name: 'Tech Events',
-        time: '00:00 AM - 00:00 AM',
+        time: '11:00 AM - 03:00 PM',
     },
     {
         day: 2,
         name: 'BGMI Tournament',
-        time: '00:00 AM - 00:00 AM',
+        time: '11:00 AM - 02:00 PM',
     },
     {
         day: 2,
         name: 'PES Tournament',
-        time: '00:00 AM - 00:00 AM',
+        time: '11:00 AM - 02:00 PM',
     },
     {
         day: 2,
         name: 'Carrom Tournament',
-        time: '00:00 AM - 00:00 AM',
+        time: '11:00 AM - 03:00 PM',
     },
 
     // Day 3
