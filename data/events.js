@@ -5,7 +5,7 @@ const events = [
         name: 'Football Tournament',
         tag: '5v5 Matches',
         description: `A 5-a-side campus football tournament packed with knockout rounds, friendly rules, and exciting prizes for the winners. \n \nShowcase your football skills and teamwork in this thrilling competition and claim the title of campus champions!`,
-        date: '14th January 2026',
+        date: '13th January 2026',
         time: '8:30 am - 5:00 pm',
         organisers: [
             {
@@ -33,8 +33,8 @@ const events = [
         tag: 'Squad Battles',
         description:
             'Battlegrounds Mobile India awaits! Showcase your tactical skills and teamwork in this thrilling BGMI tournament. Claim victory and become the ultimate champion!',
-        date: '16th January 2026',
-        time: '6:00 pm',
+        date: '15th January 2026',
+        time: '11:00 am',
         organisers: [
             {
                 key: '1',
@@ -54,8 +54,8 @@ const events = [
         tag: 'Pro Evolution Soccer',
         description:
             'Master the beautiful game in this exciting PES tournament. Show your gaming prowess and claim the title of ultimate PES champion!',
-        date: '17th January 2026',
-        time: '5:00 pm',
+        date: '15th January 2026',
+        time: '11:00 am',
         organisers: [
             {
                 key: '1',
@@ -75,8 +75,8 @@ const events = [
         tag: 'Strike & Strategy',
         description:
             'A classic game of precision and strategy! Compete in this thrilling carrom championship and showcase your striking skills. Can you pocket the coins and claim victory?',
-        date: '18th January 2026',
-        time: '3:00 pm',
+        date: '15th January 2026',
+        time: '11:00 am',
         organisers: [
             {
                 key: '1',
@@ -97,7 +97,7 @@ const events = [
         description:
             'Show your strength and power in this exhilarating power lifting competition. Lift heavy, push your limits, and become the strongest competitor on campus!',
         date: '19th January 2026',
-        time: '7:00 am',
+        time: '11:00 am',
         organisers: [
             {
                 key: '1',
@@ -117,8 +117,8 @@ const events = [
         tag: 'Test Your Endurance',
         description:
             'A simple yet challenging competition to test your physical endurance. How many push ups can you do? Join this challenge and prove your strength!',
-        date: '20th January 2026',
-        time: '6:00 am',
+        date: '19th January 2026',
+        time: '11:00 am',
         organisers: [
             {
                 key: '1',
