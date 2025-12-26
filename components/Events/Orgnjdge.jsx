@@ -8,10 +8,10 @@ const OrganizerContainer = (props) => {
     
     return (
         <div className={styles.Evecont}>
-            <p className={styles.hdn1}>Contact the Organizers</p>
+            <p className={styles.hdn1}>Contact the Event Incharge</p>
             <p className={styles.desc}>
                 Want more details related to this event, feel free to contact the
-                Event Organiser.
+                Event incharge.
             </p>
                 {organiser.map((val) => (
                             <Contact
