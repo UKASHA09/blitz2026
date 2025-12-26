@@ -18,7 +18,7 @@ const About = () => {
 
                 <p className={styles.content}>
                     BLITZ is a 3 day long fest organized by the BSc IT
-                    department of AP College of Commerce and Economics. It is a
+                    department of Akbar Peerbhoy College of Commerce and Economics. It is a
                     platform for students to showcase their skills and compete with their peers in various events ranging from sports, art and design to technical competitions.
                     <br />
                     <br />
@@ -51,5 +51,5 @@ const About = () => {
         </div>
     )
 }
-
+// day test
 export default About
