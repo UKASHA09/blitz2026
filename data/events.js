@@ -131,6 +131,28 @@ const events = [
         registration: 'https://forms.gle/PushUp',
         leadLink:"1vMIoyz6Q6FOtx9pPPP92yKkfrrZ-boipmSPAaI0qB6Y",    
     },
+    {
+        id: 7,
+        link: 'badminton',
+        name: 'Badminton Tournament',
+        tag: 'Singles & Doubles',
+        description:
+            'Fast-paced singles and doubles badminton tournament. Showcase agility, speed, and control to win trophies and prizes!',
+        date: '19th January 2026',
+        time: '11:00 am',
+        organisers: [
+            {
+                key: '1',
+                name: '#',
+                email: '#',
+                phoneNumber: '#',
+            },
+        ],
+        poster: '/Posters/badminton.png',
+        registration: 'https://forms.gle/Badminton',
+        leadLink:"",    
+    },
+
     // {
     //     id: 1,
     //     link: 'codesprint',
