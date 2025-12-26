@@ -12,13 +12,13 @@ const events = [
                 key: '1',
                 name: 'Vali',
                 // email: '##',
-                phoneNumber: '+91 7400294072',
+                phoneNumber: '7400294072',
             },
             {
                 key: '2',
                 name: 'Taheer',
                 // email: '##',
-                phoneNumber: '+91 7977275668',
+                phoneNumber: '7977275668',
             },
         ],
         poster: '/Posters/footballcard.png',
@@ -38,9 +38,9 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
+                name: 'Ukasha',
                 email: '#',
-                phoneNumber: '#',
+                phoneNumber: '8828309408',
             },
         ],
         poster: '/Posters/bgmi_tournament.png',
