@@ -24,7 +24,7 @@
 .heroImage {
     display: block;
     margin: 0 auto;
-    width: 288px; /* desktop stays SAME */
+    width: 187px; /* desktop stays SAME */ /* 288px */
     max-width: 92%;
     height: auto;
     border-radius: 16px;
