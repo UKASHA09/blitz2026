@@ -22,8 +22,8 @@ const Header = () => {
                     <Image
                         src="/png/blitzhero.png"
                         alt="Blitz hero"
-                        width={1200}
-                        height={600}
+                        width={640}
+                        height={320}
                         className={styles.heroImage}
                     />
                 </div>
