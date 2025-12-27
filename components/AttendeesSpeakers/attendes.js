@@ -43,6 +43,23 @@ const Attendes = () => {
                 </div>
 
                 <div className={styles.text}>
+                    <h4 className={styles.h4}>TechVerse — Where Minds Bend Reality</h4>
+                    <p className={styles.bl}>
+                        A universe powered by logic, creativity, and chaos.
+                        Decode anomalies in Blind Coding, battle ideas in Debate, outrun AI in Keystreak, and outsmart everyone in the Quiz Rift.
+                        Artists shape new realities in ArtWall, leaving their mark across dimensions.
+                        Welcome to the domain of thinkers, creators, and innovators.
+                    </p>
+                </div>
+                <div data-aos="fade-left" className={styles.img}>
+                    <img
+                        data-aos="rotate-c"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923409/1000044666_n9jbb8.jpg"
+                        className={styles.hi2}
+                    />
+                </div>
+                
+                <div className={styles.text}>
                     <h4 className={styles.h4}>The Nexus — Carnival of Infinite Worlds</h4>
                     <p className={styles.bl}>
                         Step into the cosmic convergence where thrill meets fun.
