@@ -35,6 +35,11 @@ const event = [
         name: 'Carrom Tournament',
         time: '11:00 AM - 03:00 PM',
     },
+    {
+        day: 2,
+        name: 'Badminton Tournament',
+        time: '02:00 PM - 04:00 PM',
+    },
 
     // Day 3
     {

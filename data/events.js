@@ -76,7 +76,7 @@ const events = [
         description:
             'A classic game of precision and strategy! Compete in this thrilling carrom championship and showcase your striking skills. Can you pocket the coins and claim victory?',
         date: '15th January 2026',
-        time: '11:00 am',
+        time: '02:00 pm - 04:00 pm',
         organisers: [
             {
                 key: '1',
@@ -150,8 +150,8 @@ const events = [
         tag: 'Singles & Doubles',
         description:
             'Fast-paced singles and doubles badminton tournament. Showcase agility, speed, and control to win trophies and prizes!',
-        date: '19th January 2026',
-        time: '11:00 am',
+        date: '15th January 2026',
+        time: '02:00 pm - 04:00 pm',
         organisers: [
             {
                 key: '1',
