@@ -32,7 +32,7 @@ const events = [
         name: 'BGMI Tournament',
         tag: 'Squad Battles',
         description:
-            'Battlegrounds Mobile India awaits! Showcase your tactical skills and teamwork in this thrilling BGMI tournament. Claim victory and become the ultimate champion! <br><br><span style="color:#ff2a2a;font-weight:600;">Rules:</span><br>- Squad Mode<br>- 2 Matches<br>- Points based on kills and placements',
+            'Battlegrounds Mobile India awaits! Showcase your tactical skills and teamwork in this thrilling BGMI tournament. Claim victory and become the ultimate champion! \n\n Rules: \n - Squad Mode \n - 2 Matches \n - Points based on kills and placements',
         date: '15th January 2026',
         time: '11:00 am',
         organisers: [
