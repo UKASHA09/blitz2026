@@ -13,6 +13,23 @@
     background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 }
 
+.heroWrap {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2.5rem;
+}
+
+.heroImage {
+    display: block;
+    margin: 0 auto;
+    width: min(88%, 1100px);
+    height: auto;
+    border-radius: 16px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
 .heading > span {
     color: rgb(255, 255, 255);
     font-size: 90px;

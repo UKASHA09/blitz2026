@@ -1,4 +1,5 @@
 import styles from '/styles/Header.module.css'
+import Image from 'next/image'
 import HButtons from './HButtons'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -13,6 +14,20 @@ const Header = () => {
     return (
         <>
             <div className={styles.hbody} id="Header">
+                <div
+                    className={styles.heroWrap}
+                    data-aos="fade-down"
+                    data-aos-duration="1500"
+                >
+                    <Image
+                        src="/png/blitzhero.png"
+                        alt="Blitz hero"
+                        width={1200}
+                        height={600}
+                        className={styles.heroImage}
+                    />
+                </div>
+
                 <p
                     className={styles.heading}
                     data-aos="fade-up"
