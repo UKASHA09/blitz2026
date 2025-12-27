@@ -55,7 +55,7 @@ const event = [
     {
         day: 3,
         name: 'Prize Distribution & Closing Ceremony',
-        time: '00:00 AM - 00:00 AM',
+        time: '03:00 PM at Auditorium',
     },
 
     // Day 4
