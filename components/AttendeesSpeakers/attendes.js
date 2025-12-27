@@ -20,7 +20,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764918941/cricket2_inbbjm.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1766865663/universe1_jvyijr.jpg"
                         className={styles.hi}
                     />
                 </div>
@@ -36,7 +36,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923409/1000044666_n9jbb8.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1766865663/universe2_wla7j1.jpg"
                         className={styles.hi2}
                     />
                 </div>
@@ -52,7 +52,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923409/1000044666_n9jbb8.jpg"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1766865664/universe3_h0hehx.jpg"
                         className={styles.hi2}
                     />
                 </div>
@@ -68,7 +68,7 @@ const Attendes = () => {
                 <div data-aos="fade-left" className={styles.img}>
                     <img
                         data-aos="rotate-c"
-                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1764923410/1000044663_urzvjk.webp"
+                        src="https://res.cloudinary.com/deve5qqso/image/upload/v1766865664/universe4_z2bf23.jpg"
                         className={styles.hi3}
                     />
                 </div>
