@@ -39,7 +39,7 @@
 /* Tablets + mobiles */
 @media (max-width: 900px) {
     .heroImage {
-        width: 210px; /* 234px → 10% smaller */
+        width: 187px; /* 234px → 20% smaller */
         border-radius: 14px;
     }
 }
@@ -47,7 +47,7 @@
 /* Small mobiles */
 @media (max-width: 600px) {
     .heroImage {
-        width: 178px; /* 198px → 10% smaller */
+        width: 160px; /* 198px → 20% smaller */
         border-radius: 12px;
     }
 }
