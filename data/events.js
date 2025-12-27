@@ -12,13 +12,13 @@ const events = [
                 key: '1',
                 name: 'Vali',
                 // email: '##',
-                phoneNumber: '7400294072',
+                phoneNumber: '74002 94072',
             },
             {
                 key: '2',
                 name: 'Taheer',
                 // email: '##',
-                phoneNumber: '7977275668',
+                phoneNumber: '79772 75668',
             },
         ],
         poster: '/Posters/footballcard.png',
@@ -39,8 +39,8 @@ const events = [
             {
                 key: '1',
                 name: 'Ukasha',
-                email: 'ukashapersonal@gmail.com',
-                phoneNumber: '8828309408',
+                // email: 'ukashapersonal@gmail.com',
+                phoneNumber: '8828 308 408',
             },
         ],
         poster: '/Posters/bgmi_tournament.png',
@@ -59,9 +59,9 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
-                email: '#',
-                phoneNumber: '#',
+                name: 'Vali',
+                // email: '##',
+                phoneNumber: '74002 94072',
             },
         ],
         poster: '/Posters/pestournament.png',
@@ -80,9 +80,9 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
-                email: '#',
-                phoneNumber: '#',
+                name: 'Ifraa',
+                // email: '#',
+                phoneNumber: '70450 30239',
             },
         ],
         poster: '/Posters/carrom.png',
@@ -101,9 +101,15 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
-                email: '#',
-                phoneNumber: '#',
+                name: 'Ukasha',
+                // email: 'ukashapersonal@gmail.com',
+                phoneNumber: '8828 308 408',
+            },
+            {
+                key: '2',
+                name: 'Shahbaz',
+                // email: 'shahbaz@example.com',    
+                phoneNumber: '8828 308 408',
             },
         ],
         poster: '/Posters/powerlifting.png',
@@ -122,9 +128,15 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
-                email: '#',
-                phoneNumber: '#',
+                name: 'Ukasha',
+                // email: '',
+                phoneNumber: '8828 308 408',
+            },
+            {
+                key: '2',
+                name: 'Rafique',
+                // email: '',    
+                phoneNumber: '8828 308 408',
             },
         ],
         poster: '/Posters/pushupchallenge.png',
@@ -143,9 +155,9 @@ const events = [
         organisers: [
             {
                 key: '1',
-                name: '#',
+                name: 'Ifraa',
                 email: '#',
-                phoneNumber: '#',
+                phoneNumber: '70450 30239',
             },
         ],
         poster: '/Posters/badminton.png',
