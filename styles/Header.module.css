@@ -23,11 +23,25 @@
 .heroImage {
     display: block;
     margin: 0 auto;
-    width: min(88%, 1100px);
+    width: min(60%, 700px);
     height: auto;
     border-radius: 16px;
     object-fit: cover;
     overflow: hidden;
+}
+
+@media (max-width: 900px) {
+    .heroImage {
+        width: min(84%, 560px);
+        border-radius: 14px;
+    }
+}
+
+@media (max-width: 600px) {
+    .heroImage {
+        width: 92%;
+        border-radius: 12px;
+    }
 }
 
 .heading > span {
