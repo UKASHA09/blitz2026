@@ -47,34 +47,6 @@ const Card = (props) => {
                                 Frontend Developer
                             </span> */}
                     </div>
-                    <div className={styles.social_container}>
-                        {/* <FaEnvelope /> */}
-                        {props.instagram !== '' && (
-                            <a
-                                href={props.instagram}
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <FaInstagram />
-                            </a>
-                        )}
-                        <a
-                            href={props.linkedin}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            <FaLinkedin />
-                        </a>
-                        {props.twitter !== '' && (
-                            <a
-                                href={props.twitter}
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <FaTwitter />
-                            </a>
-                        )}
-                    </div>
                 </div>
             </div>
         </div>
