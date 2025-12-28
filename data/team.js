@@ -14,8 +14,7 @@ const developers = [
     {
         id: 1,
         name: 'Ukasha Siddiqui',
-        image: '/team/ukashapfp.png',
-        gif: 'https://c.tenor.com/qifKtDpGCQ4AAAAi/wakey-wakey.gif',
+        image: '/team/ukashapfp.jpg',
     },
 ]
 
