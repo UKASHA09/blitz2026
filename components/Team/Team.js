@@ -32,11 +32,11 @@ export const Team = () => {
                     <Card
                         key={data.id}
                         name={data.name}
-                        gif={data.gif}
+                        // gif={data.gif}
                         image={data.image}
-                        linkedin={data.linkedin}
-                        instagram={data.instagram}
-                        twitter={data.twitter}
+                        // linkedin={data.linkedin}
+                        // instagram={data.instagram}
+                        // twitter={data.twitter}
                     />
                 ))}
             </div>
