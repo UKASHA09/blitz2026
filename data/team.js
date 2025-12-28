@@ -1,21 +1,12 @@
 const mentors = [
     {
         id: 1,
-        name: 'Prasanna Devadiga',
-        image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1633973233/WhatsApp_Image_2021-10-10_at_7.26.40_PM_km3wsd.jpg',
+        name: 'Prof. Ahtesham Shaikh',
+        image: 'https://res.cloudinary.com/deve5qqso/image/upload/v1766946476/pfpicon_obaidt.png',
         gif: 'https://c.tenor.com/DHGvsLhTOowAAAAC/meme-pikachu.gif',
         linkedin: 'https://www.linkedin.com/in/prasanna-devadiga/',
         instagram: 'https://www.instagram.com/pras_nna/',
         twitter: 'https://twitter.com/Prasanna280',
-    },
-    {
-        id: 2,
-        name: 'Hrishabh Joshi',
-        image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1632027220/IMG-20210825-WA0061_3_rtjas0.jpg',
-        gif: 'https://c.tenor.com/xEu4tiLm3hUAAAAM/mr-bean-mr-beans-holiday.gif',
-        linkedin: 'https://www.linkedin.com/in/hrishabh-joshi/',
-        instagram: 'https://www.instagram.com/_hrishabh_08/',
-        twitter: 'https://twitter.com/hrishabhjoshi08',
     },
 ]
 
