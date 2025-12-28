@@ -2,7 +2,7 @@ const mentors = [
     {
         id: 1,
         name: 'Prof. Ahtesham Shaikh',
-        image: 'https://res.cloudinary.com/deve5qqso/image/upload/v1766946933/man_zuh09t.png',
+        image: '/team/man.png',
         gif: 'https://c.tenor.com/DHGvsLhTOowAAAAC/meme-pikachu.gif',
         linkedin: 'https://www.linkedin.com/in/prasanna-devadiga/',
         instagram: 'https://www.instagram.com/pras_nna/',
