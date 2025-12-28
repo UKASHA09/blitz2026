@@ -3,10 +3,10 @@ const mentors = [
         id: 1,
         name: 'Prof. Ahtesham Shaikh',
         image: '/team/man.png',
-        gif: 'https://c.tenor.com/DHGvsLhTOowAAAAC/meme-pikachu.gif',
-        linkedin: 'https://www.linkedin.com/in/prasanna-devadiga/',
-        instagram: 'https://www.instagram.com/pras_nna/',
-        twitter: 'https://twitter.com/Prasanna280',
+        // gif: 'https://c.tenor.com/DHGvsLhTOowAAAAC/meme-pikachu.gif',
+        // linkedin: 'https://www.linkedin.com/in/prasanna-devadiga/',
+        // instagram: 'https://www.instagram.com/pras_nna/',
+        // twitter: 'https://twitter.com/Prasanna280',
     },
 ]
 
