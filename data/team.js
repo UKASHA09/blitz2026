@@ -13,12 +13,8 @@ const mentors = [
 const developers = [
     {
         id: 1,
-        name: 'Aryan Yadav',
-        image: 'https://res.cloudinary.com/hackbot/image/upload/v1633927567/profile1_ogifvj.png',
-        gif: 'https://c.tenor.com/xPOkmiPmDT8AAAAM/bhagam-bhag-akshay-kumar-naughty.gif',
-        linkedin: 'https://linkedin.com/in/yadav-aryan',
-        instagram: 'https://instagram.com/aryann__7',
-        twitter: 'https://twitter.com/7AryanY',
+        name: 'Ukasha Siddiqui',
+        image: '/team/ukashapfp.png',
     },
 ]
 
