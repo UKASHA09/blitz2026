@@ -7,10 +7,10 @@ import {
     mentors,
     developers,
     organisers,
-    eventM,
-    design,
-    content,
-    outreach,
+    // eventM,
+    // design,
+    // content,
+    // outreach,
 } from '@data/team'
 
 export const Team = () => {
@@ -59,7 +59,7 @@ export const Team = () => {
             {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Event Managers
             </h2> */}
-            <div className={styles.cards}>
+            {/* <div className={styles.cards}>
             {eventM.map((data) => (
                     <Card
                         key={data.id}
@@ -85,7 +85,7 @@ export const Team = () => {
                         // twitter={data.twitter}
                     />
                 ))}
-            </div>
+            </div> */}
             {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Design Team
             </h2>

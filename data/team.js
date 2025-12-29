@@ -182,4 +182,4 @@ const organisers = [
 //         twitter: '',
 //     },
 // ]
-export { mentors, developers, organisers, eventM, design, content, outreach }
+export { mentors, developers, organisers /*, eventM, design, content, outreach */}
