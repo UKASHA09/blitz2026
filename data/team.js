@@ -10,30 +10,36 @@ const mentors = [
 const developers = [
     {
         id: 1,
+        name: 'Prof. Ahtesham Shaikh',
+        image: '/team/man.png',
+        role: 'CEO',
+    },
+    {
+        id: 2,
         name: 'Shifa Ansari',
         image: '/team/shifaansari.jpg',
         role: 'President',
     },
     {
-        id: 2,
+        id: 3,
         name: 'Ifraa Ansari',
         image: '/team/ifraaansari.jpg',
         role: 'Vice-President',
     },
     {
-        id: 3,
+        id: 4,
         name: 'Namra Ansari',
         image: '/team/namraansari.jpg',
         role: 'Treasurer',
     },
     {
-        id: 4,
+        id: 5,
         name: 'Vali Ansari',
         image: '/team/valiansari.jpg',
         role: 'Secretary',
     },
     {
-        id: 5,
+        id: 6,
         name: 'Ukasha Siddiqui',
         image: '/team/ukashapfp.jpg',
         role: 'Technical Lead',

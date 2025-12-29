@@ -27,7 +27,7 @@ export const Team = () => {
             {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Founder & Mentor
             </h2> */}
-            <div className={styles.mentor}>
+            {/* <div className={styles.mentor}>
                 {mentors.map((data) => (
                     <Card
                         key={data.id}
@@ -39,7 +39,7 @@ export const Team = () => {
                         // twitter={data.twitter}
                     />
                 ))}
-            </div>
+            </div> */}
             {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Developers
             </h2> */}
