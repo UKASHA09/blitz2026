@@ -43,9 +43,9 @@ const Card = (props) => {
                         `}</style>
                     <div className={styles.content_container}>
                         <span className={styles.name}>{props.name}</span>
-                        {/* <span className={styles.role}>
+                        <span className={styles.role}>
                                 Frontend Developer
-                            </span> */}
+                            </span>
                     </div>
                 </div>
             </div>
