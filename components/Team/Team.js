@@ -24,9 +24,9 @@ export const Team = () => {
             <h1>
                 BLITZ 2026 <span>Team</span>
             </h1>
-            <h2 data-aos="zoom-in" data-aos-duration="1500">
+            {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Founder & Mentor
-            </h2>
+            </h2> */}
             <div className={styles.mentor}>
                 {mentors.map((data) => (
                     <Card
@@ -40,9 +40,9 @@ export const Team = () => {
                     />
                 ))}
             </div>
-            <h2 data-aos="zoom-in" data-aos-duration="1500">
+            {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Developers
-            </h2>
+            </h2> */}
             <div className={styles.cards}>
                 {developers.map((data) => (
                     <Card
@@ -56,9 +56,9 @@ export const Team = () => {
                     />
                 ))}
             </div>
-            <h2 data-aos="zoom-in" data-aos-duration="1500">
+            {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Event Managers
-            </h2>
+            </h2> */}
             <div className={styles.cards}>
             {eventM.map((data) => (
                     <Card
@@ -86,7 +86,7 @@ export const Team = () => {
                     />
                 ))}
             </div>
-            <h2 data-aos="zoom-in" data-aos-duration="1500">
+            {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Design Team
             </h2>
             <div className={styles.cards}>
@@ -130,7 +130,7 @@ export const Team = () => {
                         // twitter={data.twitter}
                     />
                 ))}
-            </div>
+            </div> */}
         </div>
     )
 }
