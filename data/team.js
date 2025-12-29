@@ -15,6 +15,7 @@ const developers = [
         id: 1,
         name: 'Ukasha Siddiqui',
         image: '/team/ukashapfp.jpg',
+        role: 'Fullstack Developer',
     },
 ]
 
@@ -31,13 +32,13 @@ const organisers = [
     },
     {
         id: 3,
-        name: 'Gouri Nair',
-        image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1633974037/WhatsApp_Image_2021-10-11_at_11.10.12_PM_g0ij1w.jpg',
+        name: 'Namra Ansari',
+        image: '/team/namraansari.jpg',
     },
     {
         id: 4,
-        name: 'Prabal Kalia',
-        image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1634014795/me_2_zpuxjt.jpg',
+        name: 'Vali Ansari',
+        image: '/team/valiansari.jpg',
     },
     {
         id: 5,
