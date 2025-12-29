@@ -1,5 +1,5 @@
 import styles from '../../styles/Card.module.css'
-import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
+// import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
 import Image from 'next/image'
 import classNames from 'classnames'
 import AOS from 'aos'
