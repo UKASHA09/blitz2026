@@ -49,6 +49,7 @@ export const Team = () => {
                         key={data.id}
                         name={data.name}
                         image={data.image}
+                        role={data.role}
                         // linkedin={data.linkedin}
                         // instagram={data.instagram}
                         // twitter={data.twitter}
