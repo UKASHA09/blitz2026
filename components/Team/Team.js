@@ -22,7 +22,7 @@ export const Team = () => {
     return (
         <div className={styles.team_container}>
             <h1>
-                BLITZ 2026 <span>Team</span>
+                "BLITZ 2026" <span>Team</span>
             </h1>
             {/* <h2 data-aos="zoom-in" data-aos-duration="1500">
                 Founder & Mentor
