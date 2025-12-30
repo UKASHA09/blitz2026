@@ -77,7 +77,7 @@ const developers = [
     {
         id: 12,
         name: 'Sadaf Khan',
-        image: '/team/sadafkhan.jpg',
+        image: '/team/sadaf.jpg',
         role: 'Hospitality Head',
     },
     {
