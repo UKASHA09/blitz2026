@@ -11,7 +11,7 @@ const developers = [
     {
         id: 1,
         name: 'Prof. Ahtesham Shaikh',
-        image: '/team/man.png',
+        image: '/team/sirji.jpg',
         role: 'CEO',
     },
     {
