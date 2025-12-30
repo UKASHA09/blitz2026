@@ -12,7 +12,7 @@ const developers = [
         id: 1,
         name: 'Prof. Ahtesham Shaikh',
         image: '/team/sirji.jpg',
-        role: 'CEO',
+        role: 'Founder',
     },
     {
         id: 2,
