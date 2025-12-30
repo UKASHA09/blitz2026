@@ -83,7 +83,7 @@ const developers = [
     {
         id: 13,
         name: 'Mahek Siddique',
-        image: '/team/maheksiddique.jpg',
+        image: '/team/mahek.jpg',
         role: 'TY Coordinator',
     },
     {
