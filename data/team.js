@@ -29,7 +29,7 @@ const developers = [
     {
         id: 4,
         name: 'Namra Ansari',
-        image: '/team/namraansari.jpg',
+        image: '/team/namra.jpg',
         role: 'Treasurer',
     },
     {
