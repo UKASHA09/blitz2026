@@ -64,7 +64,7 @@ const developers = [
     },
     {
         id: 10,
-        name: 'Krishna Saaho',
+        name: 'KRISHNA SAAHO',
         image: '/team/krishnasaaho.jpg',
         role: 'SOCIAL MEDIA HEAD',
     },
