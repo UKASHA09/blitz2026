@@ -21,7 +21,7 @@ const team = () => {
             </div>
             {/* <Footer /> */}
             <div className="footerLowermain">
-                <span onClick={love} className={styles.heart}>Developed by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
+                <span>Developed by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
             </div>
         </>
     )
