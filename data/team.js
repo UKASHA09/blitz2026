@@ -41,7 +41,7 @@ const developers = [
     {
         id: 6,
         name: 'Ukasha Siddiqui',
-        image: '/team/ukb.jpg',
+        image: '/team/ukashapfp.jpg',
         role: 'Technical Lead',
     },
     {
