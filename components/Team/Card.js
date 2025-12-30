@@ -1,5 +1,5 @@
 import styles from '../../styles/Card.module.css'
-import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
+// import { FaInstagram, FaTwitter, FaLinkedin } from 'react-icons/fa'
 import Image from 'next/image'
 import classNames from 'classnames'
 import AOS from 'aos'
@@ -18,8 +18,8 @@ const Card = (props) => {
     return (
         <div
             className={styles.borderwrap}
-            onMouseOver={() => setImg(props.gif)}
-            onMouseOut={() => setImg(props.image)}
+            // onMouseOver={() => setImg(props.gif)}
+            // onMouseOut={() => setImg(props.image)}
             data-aos="fade-up"
             data-aos-anchor-placement="top-bottom"
             data-aos-duration="1000"
@@ -43,37 +43,9 @@ const Card = (props) => {
                         `}</style>
                     <div className={styles.content_container}>
                         <span className={styles.name}>{props.name}</span>
-                        {/* <span className={styles.role}>
-                                Frontend Developer
-                            </span> */}
-                    </div>
-                    <div className={styles.social_container}>
-                        {/* <FaEnvelope /> */}
-                        {props.instagram !== '' && (
-                            <a
-                                href={props.instagram}
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <FaInstagram />
-                            </a>
-                        )}
-                        <a
-                            href={props.linkedin}
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            <FaLinkedin />
-                        </a>
-                        {props.twitter !== '' && (
-                            <a
-                                href={props.twitter}
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <FaTwitter />
-                            </a>
-                        )}
+                        <span className={styles.role}>
+                                {props.role}
+                            </span>
                     </div>
                 </div>
             </div>
