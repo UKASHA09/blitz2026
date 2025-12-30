@@ -47,11 +47,11 @@ const developers = [
 ]
 
 const organisers = [
-    {
-        id: 1,
-        name: 'Syam Sivadas',
-        image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1634105387/IMG20211010180906_c9hy4n.jpg',
-    },
+    // {
+    //     id: 1,
+    //     name: 'Syam Sivadas',
+    //     image: 'https://res.cloudinary.com/dlu72yo9b/image/upload/v1634105387/IMG20211010180906_c9hy4n.jpg',
+    // },
 ]
 
 // const eventM = [
