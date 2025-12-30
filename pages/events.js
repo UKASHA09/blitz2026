@@ -1,4 +1,4 @@
-// import Footer from '@components/Footer/Footer'
+import Footer from '@components/Footer/Footer'
 import Navbar from '@components/Nav/Navbar'
 import Head from 'next/head'
 import { Event } from '@components/AllEvents/Event'
@@ -19,7 +19,7 @@ const team = () => {
                 <Navbar />
                 <Event />
             </div>
-            {/* <Footer /> */}
+            <Footer />
         </>
     )
 }

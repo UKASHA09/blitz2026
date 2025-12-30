@@ -19,7 +19,10 @@ const team = () => {
                 <Navbar />
                 <Team />
             </div>
-            <Footer />
+            {/* <Footer /> */}
+            <div className="footerLowermain">
+                <span onClick={love} className={styles.heart}>Developed by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
+            </div>
         </>
     )
 }

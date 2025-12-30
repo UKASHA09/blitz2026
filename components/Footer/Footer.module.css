@@ -9,7 +9,8 @@
     padding: 2%;
     border-bottom: gray solid 1px;
 }
-.footerLower {
+
+.footerLowermain {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -19,6 +20,11 @@
     padding: 1em 0;
     border-top: 1px solid gray;
     z-index: 999;
+}
+.footerLower {
+    text-align: center;
+    padding-bottom: calc(1em + 0.5%);
+    padding-top: 1em;
 }
 
 .icons {
