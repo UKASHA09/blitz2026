@@ -44,6 +44,60 @@ const developers = [
         image: '/team/ukashapfp.jpg',
         role: 'Technical Lead',
     },
+    {
+        id: 7,
+        name: 'Umar Shaikh',
+        image: '/team/umarshaikh.jpg',
+        role: 'PR Head',
+    },
+    {
+        id: 8,
+        name: 'Taheer Chorwadwala',
+        image: '/team/taheer.jpg',
+        role: 'Logistics Head',
+    },
+    {
+        id: 9,
+        name: 'Shahid Ansari',
+        image: '/team/shahidansari.jpg',
+        role: 'Artistic Lead',
+    },
+    {
+        id: 10,
+        name: 'Krishna Saaho',
+        image: '/team/krishnasaaho.jpg',
+        role: 'Social Media Head',
+    },
+    {
+        id: 11,
+        name: 'Aarzu Ansari',
+        image: '/team/aarzu.jpg',
+        role: 'Creative Lead',
+    },
+    {
+        id: 12,
+        name: 'Sadaf Khan',
+        image: '/team/sadafkhan.jpg',
+        role: 'Hospitality Head',
+    },
+    {
+        id: 13,
+        name: 'Mahek Siddique',
+        image: '/team/maheksiddique.jpg',
+        role: 'TY Coordinator',
+    },
+    {
+        id: 14,
+        name: 'Bilal Ansari',
+        image: '/team/bilalansari.jpg',
+        role: 'SY Coordinator',
+    },
+    {
+        id: 15,
+        name: 'Areeba Khan',
+        image: '/team/areebakhan.jpg', 
+        role: 'FY Coordinator',
+    }
 ]
 
 const organisers = [
