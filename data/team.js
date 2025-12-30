@@ -1,10 +1,10 @@
 const mentors = [
-    {
-        id: 1,
-        name: 'Prof. Ahtesham Shaikh',
-        image: '/team/man.png',
-        role: 'CEO',
-    },
+    // {
+    //     id: 1,
+    //     name: 'Prof. Ahtesham Shaikh',
+    //     image: '/team/man.png',
+    //     role: 'CEO',
+    // },
 ]
 
 const developers = [
