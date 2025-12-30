@@ -89,7 +89,7 @@ const developers = [
     {
         id: 14,
         name: 'Bilal Ansari',
-        image: '/team/photonahihai.jpg',
+        image: '/team/bilal.jpg',
         role: 'SY Coordinator',
     },
     {
