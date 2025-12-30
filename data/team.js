@@ -95,7 +95,7 @@ const developers = [
     {
         id: 15,
         name: 'Areeba Khan',
-        image: '/team/areebakhan.jpg', 
+        image: '/team/areeba.jpg', 
         role: 'FY Coordinator',
     }
 ]
