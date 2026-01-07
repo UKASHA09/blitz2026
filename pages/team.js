@@ -1,4 +1,3 @@
-import Footer from '@components/Footer/Footer'
 import Navbar from '@components/Nav/Navbar'
 import Head from 'next/head'
 import { Team } from '@components/Team/Team'
@@ -19,7 +18,10 @@ const team = () => {
                 <Navbar />
                 <Team />
             </div>
-            <Footer />
+            {/* <Footer /> */}
+            <div className={styles.footerLowermain}>
+                <span>Developed by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
+            </div>
         </>
     )
 }

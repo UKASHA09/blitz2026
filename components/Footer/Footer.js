@@ -1,16 +1,12 @@
 import {
-    FaFacebookSquare,
     FaInstagram,
-    FaTwitter,
     FaEnvelope,
-    FaTwitch,
-    FaYoutube,
 } from 'react-icons/fa'
 import { SiWhatsapp } from 'react-icons/si'
 import styles from './Footer.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
-import logo from '../../public/footerimage.png'
+import logo from '../../public/footerlatest.png'
 const Footer = () => {
     function love() {
         alert("With ❤️💜💛, We present to you... BLITZ! To contact me, please whatsapp at 8828 308 408")
@@ -75,7 +71,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className={styles.footerLower}>
-                <span onClick={love} className={styles.heart}>Made with ❤️ by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
+                <span onClick={love} className={styles.heart}>Developed by Ukasha Siddiqui, FY-BSCIT, APCCE</span>
             </div>
         </div>
     )
