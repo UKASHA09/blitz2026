@@ -17,7 +17,7 @@ const developers = [
     {
         id: 2,
         name: 'Shifa Ansari',
-        image: '/team/shifaansari.jpg',
+        image: '/team/shifa.jpg',
         role: 'President',
     },
     {
