@@ -41,7 +41,7 @@ export default function Timeline() {
                         <Dcard name="Day 2- 17th Jan" day={day2} />
                     </div>
                     <div onClick={handleday3}>
-                        <Dcard name="Day 3- 19th Jan" day={day3} />
+                        <Dcard name="Day 3- 20th Jan" day={day3} />
                     </div>
 
                 </div>

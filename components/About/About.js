@@ -35,7 +35,7 @@ const About = () => {
                 </div>
                 <hr className={styles.line} />
                 <div className={styles.right_date} >
-                    <Date day="19" month="January" subtxt="st" />
+                    <Date day="20" month="January" subtxt="st" />
                 </div>
             </div>
             <br />

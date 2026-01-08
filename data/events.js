@@ -96,7 +96,7 @@ const events = [
         tag: 'Strength & Power',
         description:
             'Show your strength and power in this exhilarating power lifting competition. Lift heavy, push your limits, and become the strongest competitor on campus!',
-        date: '19th January 2026',
+        date: '20th January 2026',
         time: '11:00 am',
         organisers: [
             {
@@ -123,7 +123,7 @@ const events = [
         tag: 'Test Your Endurance',
         description:
             'A simple yet challenging competition to test your physical endurance. How many push ups can you do? Join this challenge and prove your strength!',
-        date: '19th January 2026',
+        date: '20th January 2026',
         time: '11:00 am',
         organisers: [
             {
