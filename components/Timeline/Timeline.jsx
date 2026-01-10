@@ -35,10 +35,10 @@ export default function Timeline() {
             <div className={styles.tabs}>
                 <div className={styles.days}>
                     <div onClick={handleday1}>
-                        <Dcard name="Day 1- 12th Jan" day={day1} />
+                        <Dcard name="Day 1- 17th Jan" day={day2} />
                     </div>
                     <div onClick={handleday2}>
-                        <Dcard name="Day 2- 17th Jan" day={day2} />
+                        <Dcard name="Day 2- 19th Jan" day={day1} />
                     </div>
                     <div onClick={handleday3}>
                         <Dcard name="Day 3- 20th Jan" day={day3} />
