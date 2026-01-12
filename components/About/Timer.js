@@ -3,7 +3,7 @@ import moment from 'moment'
 import styles from '../../styles/Timer.module.css'
 
 const Timer = ({ setShowTimer }) => {
-    const targetTime = moment('2026-01-12 08:00')
+    const targetTime = moment('2026-01-17 08:00')
     const [currentTime, setCurrentTime] = useState(moment())
     const timeBetween = moment.duration(
         targetTime.diff(currentTime) > 0 ? targetTime.diff(currentTime) : 0,

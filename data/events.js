@@ -5,7 +5,7 @@ const events = [
         name: 'Football Tournament',
         tag: '5v5 Matches',
         description: `A 5-a-side campus football tournament packed with knockout rounds, friendly rules, and exciting prizes for the winners. \n \nShowcase your football skills and teamwork in this thrilling competition and claim the title of campus champions!`,
-        date: '13th January 2026',
+        date: '17th January 2026',
         time: '8:30 am - 5:00 pm',
         organisers: [
             {
@@ -33,7 +33,7 @@ const events = [
         tag: 'Squad Battles',
         description:
             'Battlegrounds Mobile India awaits! Showcase your tactical skills and teamwork in this thrilling BGMI tournament. Claim victory and become the ultimate champion! \n\n Rules: \n - Squad Mode \n - 2 Matches \n - Points based on kills and placements',
-        date: '15th January 2026',
+        date: '19th January 2026',
         time: '11:00 am',
         organisers: [
             {
@@ -54,7 +54,7 @@ const events = [
         tag: 'Pro Evolution Soccer',
         description:
             'Master the beautiful game in this exciting PES tournament. Show your gaming prowess and claim the title of ultimate PES champion!',
-        date: '15th January 2026',
+        date: '19th January 2026',
         time: '11:00 am',
         organisers: [
             {
@@ -75,7 +75,7 @@ const events = [
         tag: 'Strike & Strategy',
         description:
             'A classic game of precision and strategy! Compete in this thrilling carrom championship and showcase your striking skills. Can you pocket the coins and claim victory?',
-        date: '15th January 2026',
+        date: '19th January 2026',
         time: '02:00 pm - 04:00 pm',
         organisers: [
             {
@@ -150,7 +150,7 @@ const events = [
         tag: 'Singles & Doubles',
         description:
             'Fast-paced singles and doubles badminton tournament. Showcase agility, speed, and control to win trophies and prizes!',
-        date: '15th January 2026',
+        date: '19th January 2026',
         time: '02:00 pm - 04:00 pm',
         organisers: [
             {
